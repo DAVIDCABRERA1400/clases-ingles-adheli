@@ -1,0 +1,12 @@
+# Fotos originales no censuradas (Privacidad de los niños)
+img/*_orig.*
+img/crop_*
+img/*_opt.*
+
+# Modelos y utilidades de detección temporal
+*.onnx
+deploy.prototxt
+*.log
+
+# Scripts de prueba local
+start_preview.ps1
